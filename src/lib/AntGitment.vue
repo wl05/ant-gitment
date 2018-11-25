@@ -22,7 +22,9 @@
                         },
                         theme : binding.value.theme
                     })
+                    // gitment.init()
                     gitment.render(el)
+
                 }
             }
         }

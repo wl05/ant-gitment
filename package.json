@@ -1,6 +1,6 @@
 {
   "name": "ant-gitment",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "A comment plugin based on gitment",
   "main": "dist/build.js",
   "directories": {
